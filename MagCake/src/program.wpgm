@@ -1,0 +1,14 @@
+import wollok.game.*
+import ConfiguracionInicial.*
+
+/*
+ * Usa las flechas del teclado para mover al Chef.
+ * Ayúdalo a armar las recetas de CupCakes para cumplir con la mision.
+ */
+
+program MagCakeElJuego {
+
+	
+	partida.iniciarJuego()
+	game.start()
+}
